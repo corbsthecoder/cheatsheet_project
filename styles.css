@@ -2,8 +2,23 @@ h1 {
   text-align: center;
 }
 
-h3 {
+h2 {
   text-align: center;
   font-size: larger;
   color: green;
+}
+
+.tableHeader {
+  border: 2px solid red;
+  width: 75%;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: plum;
+}
+
+.tagChange {
+  font-family: monospace;
+  background-color: beige;
 }
