@@ -1,3 +1,8 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: gainsboro;
+}
+
 h1 {
   text-align: center;
 }
@@ -10,7 +15,7 @@ h2 {
 
 .tableHeader {
   border: 2px solid red;
-  width: 75%;
+  width: 85%;
   margin: 0 auto;
 }
 
@@ -21,4 +26,5 @@ thead {
 .tagChange {
   font-family: monospace;
   background-color: beige;
+  text-align: center;
 }
