@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: gainsboro;
+  background-color: lavenderblush;
 }
 
 h1 {
@@ -27,4 +27,8 @@ thead {
   font-family: monospace;
   background-color: beige;
   text-align: center;
+}
+
+.tdPadding {
+  padding-left: 10px;
 }
